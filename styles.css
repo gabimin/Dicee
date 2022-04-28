@@ -10,7 +10,7 @@
 }
 
 body {
-  background-color: #393e46;
+  background-color: #379e95c2;
 }
 
 h1 {
@@ -18,18 +18,26 @@ h1 {
   font-family: "Lobster", cursive;
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
-  color: #4ecca3;
+  color: #e43030;
+}
+
+h2 {
+  padding: 5%;
+  margin: auto;
+  font-size: 2rem;
+  color: #e43030;
+  font-family: "Indie Flower", cursive;
+  text-align: center;
+  text-shadow: 2px 0 #23293196;
 }
 
 p {
-  font-size: 2rem;
-  color: #4ecca3;
+  text-shadow: 2px 0 #23293196;
+  font-size: 2.25rem;
+  color: #e43030;
   font-family: "Indie Flower", cursive;
 }
 
 img {
   width: 80%;
 }
-
-
-

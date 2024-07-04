@@ -1,6 +1,10 @@
-## Dicee
 
-Welcome to the Dicee Game! This is a simple web-based game that allows you to roll two dice and see who wins.
+
+---
+
+# Dicee 🎲
+
+This is a simple web-based game that allows you to roll two dice and see who wins.
 
 ### Features
 
@@ -26,9 +30,6 @@ Check out the live demo [here](https://dicee-phi.vercel.app/).
 - CSS
 - JavaScript
 
-### Screenshots
-
-![Dicee Screenshot](images/dicee_screenshot.png)
 
 ### License
 
